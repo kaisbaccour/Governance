@@ -1,4 +1,5 @@
 - One alpha citizen corresponds to one digital and decentralised identity which in most cases represents 10 voting power.
+- The voting system shall be stored and operated ina  decentralised manner.
 - A quorum is a governance parameter to be voted on. It can be initialised to 30%.
 - A mandate duration is a governance parameter to be voted on. It can be initialised to 3 years.
 - A proposal duration is a governance parameter to be voted on. It can be initialised to 7 days.

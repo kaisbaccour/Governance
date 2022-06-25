@@ -10,3 +10,4 @@
 - Delegates are voted on for a specific mandate and they need to get reelected to keep their position.
 - Voting for Delegates is a continuous routine, every representative has their own voting power, starting date and expiry date of a mandate to be renewed with votes
 - submitting a proposal and not getting to a minimum voting quorum will disallow the alpha citizen from submitting any proposal for a period of time. (This will avoid spam).
+- The number of Delegates is set by voting but can be initialised to 100
