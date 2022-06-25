@@ -1,6 +1,12 @@
-- Representatives/parlementarians do not represent people based on their localisation but instead based on the amount of votes they get from the entire country
-- Voting for representatives is not choosing one person but instead distributing 10 points to a set of people. It is possible to give all 10 points to the same representative but it is also possible to spread your voting power to more representatives.
-- A Representative's voting power is the sum of all the votes delegated to them. For any proposal, an alpha citizen can override the vote of the representative by actively voting to the proposal.
-- Alpha citizens and Representatives cannot vote to ban a representative, however voters for a specific representative can vote to ban their own representative. (This will make sure the minority stays represented). The quorum is then calculated relatively to the representative voting power
-- Representatives are voted on for a specific mandate and they need to get reelected to keep their position.
-- Voting for representatives is a continues routine, every representative has their own voting power, starting date and expiry date of a mandate to be renewed with votes
+#This could be similar in trad Governance to a parliamentarian or a representative
+
+
+- A Representative's voting power is the sum of all the votes delegated to them.
+- For any proposal, an alpha citizen can override the vote of their respective representative by actively voting to the proposal.
+- Delegates do not represent people based on their localisation but instead based on the amount of votes they get from the entire ecosystem/country.
+- Voting for Delegates is not choosing one person but instead distributing 10 voting points to a set of alpha citizens/candidates. It is possible to give all 10 points to the same candidate but it is also possible to spread your voting power to more candidates.
+- To become a candidate, an alpha citizen simply needs to collect at least on voting power point(They can also vote for themselves and become candidates)
+- Alpha citizens and Delegates cannot vote to ban a representative, however voters for a specific representative can vote to ban their own representatives. (This will make sure the minority stays represented even when the majority is opposed to that). The quorum is then calculated relatively to the representative voting power
+- Delegates are voted on for a specific mandate and they need to get reelected to keep their position.
+- Voting for Delegates is a continues routine, every representative has their own voting power, starting date and expiry date of a mandate to be renewed with votes
+- submitting a proposal requires a minimum voting power to be set as a ratio of the global voting power of the ecosystem.
