@@ -8,5 +8,5 @@
 - To become a candidate, an alpha citizen simply needs to collect at least 1 voting power point(They can also vote for themselves and become candidates)
 - Alpha citizens and Delegates cannot vote to ban a representative, however voters for a specific representative can vote to ban their own representatives. (This will make sure the minority stays represented even when the majority is opposed to that). The quorum is then calculated relatively to the representative voting power
 - Delegates are voted on for a specific mandate and they need to get reelected to keep their position.
-- Voting for Delegates is a continues routine, every representative has their own voting power, starting date and expiry date of a mandate to be renewed with votes
-- submitting a proposal requires a minimum voting power to be set as a ratio of the global voting power of the ecosystem.
+- Voting for Delegates is a continuous routine, every representative has their own voting power, starting date and expiry date of a mandate to be renewed with votes
+- submitting a proposal and not getting to a minimum voting quorum will disallow the alpha citizen from submitting any proposal for a period of time. (This will avoid spam).
