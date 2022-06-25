@@ -11,3 +11,5 @@
 - Voting for Delegates is a continuous routine, every representative has their own voting power, starting date and expiry date of a mandate to be renewed with votes
 - submitting a proposal and not getting to a minimum voting quorum will disallow the alpha citizen from submitting any proposal for a period of time. (This will avoid spam).
 - The number of Delegates is set by voting but can be initialised to 100
+- Delegates votes are transparent to the public
+- Delegates have incentives in being Delegates by getting a budget voted on by the voters. The delegators could abuse this to increase their budget by if they do so alpha citizens can still override their votes.
