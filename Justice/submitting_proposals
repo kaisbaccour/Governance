@@ -1,0 +1,7 @@
+# Like all Alpha citizens, judges can submit proposals based on interpretations they see while execising their job.
+# One issue Alpha citizens might encounter while submitting proposals the ability to gather enough voting power to reach quorum.
+# Judges need a way to easily get their proposals noticed without needing to promote the proposal.
+# They can achieve this when enough of them agree to submit the proposal as a group, and that is referred to as a "Justice Proposal"
+
+- Justice Proposals are regular proposals that are almost garanteed to pass the quorum. This is ensured by the fact that Delegates who fail to vote on Justice proposals lose part of their voting power.
+- Judges can submit Justice proposals. In order to do that, one judge shall first submit a proposal to the rest of the judges. Only judges can vote on this proposal and it also obeys similar voting principles with a pre defined quorum. In the voting here there is no "Judge Delegate" principle.

@@ -1,2 +1,3 @@
 - Any alpha citizen can submit a proposal to add, update or remove a law.
-- submitting a proposal and not getting to a minimum voting quorum will disallow the alpha citizen from submitting any proposal for a period of time. (This will avoid spam).
+- submitting a proposal and not getting to a minimum voting quorum will disallow the alpha citizen from submitting any proposal for a period of time initialized to 1 year. (This will avoid spam).
+- Delegates who fail to vote on a proposal that has passed the quorum or that has been submitted by the Justice will lose 1 voting point from every voter that has delegated to them
