@@ -1,0 +1,12 @@
+- Every case gets 5 judges assigned to it.
+- The outcome is discussed and voted on by the judges.
+- There are two types of escalations: Escalation by judges disagreement and escalation by appeal
+
+# Escalation by judges disagreement
+- The case is recorded as it might be needed in case of an appeal or a judges not reaching the acceptation threshold (40%) 
+- If two (40%) of the judges vote against the majority's outcome then the case gets transferred to 20 judges (randomly selected) who will have access to the case's record and will discuss and decide if more information is needed to open the case again or decide that enough info has been given and vote on it.
+- if at least 40% are against the majority's outcome then the case becomes accessible to all the judges of the ecosystem who will be able to access the case's record and vote on it. In this case only 50% is needed for the decision.
+# In this case, it is likely that a Justice proposal (Justice.submitting_proposals) is submitted to prevent a similar future escalation.
+
+# Escalation by appeal
+# TODO
