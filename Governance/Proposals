@@ -1,0 +1,10 @@
+- Proposals can be anything from adding, changing or removing a law
+- Proposals have a creation date and an end date and they need to meet the quorum and more than 50% in favor to take effect.
+- When a proposal's end date is met but only half of the quorum is met, the proposal gets renewed (votes are kept) for one extra proposal duration.
+- An Enabled Proposal is a proposal that has passed the quorum but did not meet the end date yet.
+
+
+# Special case where so many proposals meet the quorum in a short period of time.
+- There shall be a maximum limit on the amount of enabled proposals to allow more time for Delegates and active Alpha citizens to better review and vote before these get their outcome.
+- If new Proposals meet the quorum and their end date is met but the maximum limit of enabled quorum is reached, these new proposals stay on hold in a First In First Out enabled proposal pool. 
+- Every week a new batch is taken from the proposal pool and the size of the batch is 10 proposals. This way, in a maximum busy regime, a delegate has a maximum of 10 proposals to vote on.
