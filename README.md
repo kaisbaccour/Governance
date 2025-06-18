@@ -24,22 +24,25 @@ It is a citizen-first, code-based society built on five pillars:
 
 ## 🧱 System Architecture
 
+```text
 Governance/
-├── Identity/ # Decentralized ID, Sybil resistance
-├── Voting/ # On-chain voting logic, quorum settings
-├── Delegates/ # Liquid delegation, counter-voting
-├── Executives/ # Modular execution units (like ministries)
-├── Economy/ # Funding models, budgeting logic
+├── Identity/              # Decentralized ID, Sybil resistance
+├── Voting/                # On-chain voting logic, quorum settings
+├── Delegates/             # Liquid delegation, counter-voting
+├── Executives/            # Modular execution units (like ministries)
+├── Economy/               # Funding models, budgeting logic
 └── Executive Units/
-├── Finance/
-│ └── Currency/ # UBI, emission rules, inflation handling
-├── Labor/
-│ └── Work/ # Work recognition, productivity signals
-├── Cadastre/ # Land/property governance
-└── General_Directives/ # Constitutional principles
+    ├── Finance/
+    │   └── Currency/      # Universal Basic Income, emission rules, inflation handling
+    ├── Labor/
+    │   └── Work/          # Work recognition, productivity signals
+    ├── Cadastre/          # Land/property governance
+    └── General_Directives/# Constitutional principles
 
 Justice/
-└── Guidelines/ # Dispute resolution, penalties, appeals
+└── Guidelines/            # Dispute resolution, penalties, appeals
+```
+
 ---
 
 ## 🌐 Key Design Principles
